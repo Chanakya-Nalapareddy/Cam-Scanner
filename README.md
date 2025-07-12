@@ -1,8 +1,5 @@
 # Cam-Scanner
 
-
-# Cam-Scanner
-
 **Authors:** Chanakya Nalapareddy, Nosherwan Babar  
 **Date:** 12/11/2024
 
